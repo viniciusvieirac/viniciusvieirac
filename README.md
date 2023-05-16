@@ -46,12 +46,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
   
-</div>  
-<div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=viniciusvieirac&theme=dark&hide_border=false)<br/>
-  
-</div>  
+</div>   
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvieirac&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
