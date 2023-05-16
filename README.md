@@ -4,7 +4,7 @@
 
 <br/>  
 
- > * 💻 web developer passionate about technology and innovation.*  
+ >  💻 *web developer passionate about technology and innovation.*  
   
 
 <br/>  
