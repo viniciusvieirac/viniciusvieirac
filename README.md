@@ -2,7 +2,9 @@
 
 ### <div align="center">I'm Vinicius Vieira, a front-end developer 👨‍💻🚀</div> 
 
-- > * 💻 web developer passionate about technology and innovation.*  
+<br/>  
+
+ > * 💻 web developer passionate about technology and innovation.*  
   
 
 <br/>  
