@@ -4,7 +4,7 @@
 
 <br/>  
 
-# <div align="center" 💻 *web developer passionate about technology and innovation.*    </div>
+# <div align="center"> 💻 *web developer passionate about technology and innovation.*    </div>
   
   
 
