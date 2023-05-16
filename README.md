@@ -1,11 +1,10 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22xp5pdwog24w474gnvvfw2oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
-### <div align="center">I'm Vinicius Vieira, a front-end developer 👨‍💻🚀
+### <div align="center">I'm Vinicius Vieira, a front-end developer 👨‍💻🚀   </div>
 
 <br/>  
 
-   💻 *web developer passionate about technology and innovation.*
-   </div> 
+   💻 *web developer passionate about technology and innovation.* 
   
 
 <br/>  
