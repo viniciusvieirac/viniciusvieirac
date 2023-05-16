@@ -4,7 +4,8 @@
 
 <br/>  
 
-   💻 *web developer passionate about technology and innovation.* 
+# <div align="center" 💻 *web developer passionate about technology and innovation.*    </div>
+  
   
 
 <br/>  
