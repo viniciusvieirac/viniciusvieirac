@@ -48,12 +48,12 @@
 ## Github Stats  
 <div align="center">
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvieirac&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/viniciusvieirac)<br/>
+![](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&show_icons=true&theme=radical))<br/>
   
 </div>   
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusvieira&layout=donut)](https://github.com/viniciusvieirac/github-readme-stats)
+
   
 </div>  
   
