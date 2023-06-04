@@ -48,12 +48,12 @@
 ## Github Stats  
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=viniciusvieirac&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/viniciusvieirac)<br/>
   
 </div>   
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=viniciusvieirac&show_icons=true&theme=radical)
   
 </div>  
   
